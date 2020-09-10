@@ -1,0 +1,1000 @@
+ 1159  ls
+ 1160  cd home/
+ 1161  cd misa/
+ 1162  ls
+ 1163  cd Descargas/
+ 1164  ls
+ 1165  cd StarWarsOutNetflix/
+ 1166  ls
+ 1167  mv tt2488496_a5d6d240-1f3f-11e8-aaf6-172eec451de2.mp4 starwars7castellano.mp4
+ 1168  ls
+ 1169  mv starwars8.mp4 starwars8ingles.mp4
+ 1170  ls
+ 1171  apt-get
+ 1172  apt-get clean
+ 1173  sudo apt-get clean
+ 1174  sudo apt-get autoclean
+ 1175  apt-get 
+ 1176  apt-get  autoremote
+ 1177  apt-get  autoremove
+ 1178  sudo apt-get  autoremove
+ 1179  sudo apt-get  
+ 1180  sudo apt-get  autoclean
+ 1181  rpm
+ 1182  ping http://elektro.ft.unsoed.ac.id
+ 1183  ping elektro.ft.unsoed.ac.id
+ 1184  pkill vlc
+ 1185  ip addr
+ 1186  ping -b 192.168.0.255
+ 1187  arp -a
+ 1188  ncx
+ 1189  nc
+ 1190  nc --help
+ 1191  man nc
+ 1192  nc -zv host.example.com 20-30
+ 1193  nc -zv 192.168.0.105  0-6000
+ 1194  nc -zv 192.168.0.105  1-6000
+ 1195  nc -zv 192.168.0.105  5000-6000
+ 1196  kill fceux
+ 1197  kill -9 fceux
+ 1198  ps | grep
+ 1199  ps -fea | grep
+ 1200  ps -fea | grep fceux
+ 1201  pkill fceux
+ 1202  wireshark
+ 1203  sudo wireshark
+ 1204  man ip
+ 1205  man ping
+ 1206  ping -s 1500 127.0.0.1
+ 1207  ping -s 5000  127.0.0.1
+ 1208  ip addr
+ 1209  netsta -r
+ 1210  netstat -r
+ 1211  ifconfig
+ 1212  ping -s 5000  192.168.0.1
+ 1213  ping -s 65535  192.168.0.1
+ 1214  ping -s 64000  192.168.0.1
+ 1215  ping -s 65508  192.168.0.1
+ 1216  ping -s 65535  192.168.0.1
+ 1217  ping   192.168.0.1
+ 1218  ping -s 1000  192.168.0.1
+ 1219  ping -s 3000  192.168.0.1
+ 1220  ping -s 30000  192.168.0.1
+ 1221  ping -s 65535  192.168.0.1
+ 1222  ping -s 65507  192.168.0.1
+ 1223  ping -s 6550  192.168.0.1
+ 1224  ping -s 65535  192.168.0.1
+ 1225  kate
+ 1226  top
+ 1227  ls
+ 1228  cd /dev/
+ 1229  ks
+ 1230  ls
+ 1231  cd ..
+ 1232  cd /media/
+ 1233  ls
+ 1234  cd misa/
+ 1235  ls
+ 1236  cd 'Lubuntu 18.10 i386'/
+ 1237  ls
+ 1238  rm -rf *.*
+ 1239  ls
+ 1240  rm boot/
+ 1241  rm -rf boot/
+ 1242  cd /m
+ 1243  cd /media/
+ 1244  ls
+ 1245  cd misa/
+ 1246  ls
+ 1247  cd 'Lubuntu 18.10 i386'/
+ 1248  ls
+ 1249  rm -rf boot/
+ 1250  sudo live-usb-install 
+ 1251  sudo su
+ 1252  ls
+ 1253  rm boot/
+ 1254  rm -rf boot/
+ 1255  ls
+ 1256  chmod 777 *
+ 1257  chmod 777 *.*
+ 1258  sudo su
+ 1259  sudo gparted
+ 1260  pkill gparted
+ 1261  sudo gparted
+ 1262  sudo su
+ 1263  sudo gnome-disk
+ 1264  gnome-disk
+ 1265  gnome-disk-utility
+ 1266  sudo apt-get install gnome-disk-utility
+ 1267  sudo gnome-disk-utility
+ 1268  locate gnome-disk-utility
+ 1269  cd /usr/lib/gnome-disk-utility/
+ 1270  ls
+ 1271  ./gsd-disk-utility-notify 
+ 1272  top
+ 1273  $XDG_CONFIG_HOME
+ 1274  echo $XDG_CONFIG_HOME
+ 1275  ls
+ 1276  ls -l.
+ 1277  ls -la
+ 1278  ls
+ 1279  cd Documentos/
+ 1280  lsd
+ 1281  ls
+ 1282  locate gromit-mpx.cfg
+ 1283  kate locate gromit-mpx.cfg
+ 1284  locate gromit-mpx.cfg
+ 1285  sudo kate  /etc/gromit-mpx/gromit-mpx.cfg
+ 1286  /etc/gromit-mpx/gromit-mpx.cfg
+ 1287  nano /etc/gromit-mpx/gromit-mpx.cfg
+ 1288  sudo nano /etc/gromit-mpx/gromit-mpx.cfg
+ 1289  pkill konsole
+ 1290  cd /etc/
+ 1291  cd gromit-mpx/
+ 1292  ls
+ 1293  sudo nano gromit-mpx.cfg 
+ 1294  cd /etc/gromit-mpx/
+ 1295  lds
+ 1296  ls
+ 1297  sudo nano gromit-mpx.cfg 
+ 1298  ps
+ 1299  ps -fea
+ 1300  ps -fea | gro
+ 1301  ps -fea | grom
+ 1302  ps -fea | grep grom
+ 1303  ps -fea | grep gro
+ 1304  sudo nano gromit-mpx.cfg 
+ 1305  locate gromit-mpx.cfg 
+ 1306  locate gromit
+ 1307  ls
+ 1308  cd /usr/bin/
+ 1309  ./gromit-mpx 
+ 1310  sudo nano /home/misa/.config/gromit-mpx.cfg
+ 1311  exit
+ 1312  cd /etc/gromit-mpx/
+ 1313  ls
+ 1314  sudo nano gromit-mpx.cfg 
+ 1315  cd /home/
+ 1316  cd misa/
+ 1317  ls
+ 1318  cd Descargas/
+ 1319  ls
+ 1320  sudo chmod 755 ~/Downloads/Tracker-5.x.x-linux-yybit-installer.run
+ 1321  ls
+ 1322  cd Descargas/
+ 1323  ls
+ 1324  nano i7tm23us.exe 
+ 1325  sudo apt-get install tracker
+ 1326  ls
+ 1327  cd Descargas/
+ 1328  ls
+ 1329  ls *.run
+ 1330  chmod 775 Tracker-5.0.7-linux-64bit-installer.run 
+ 1331  ./Tracker-5.0.7-linux-64bit-installer.run 
+ 1332  sudo ./Tracker-5.0.7-linux-64bit-installer.run 
+ 1333  ls
+ 1334  cd Vídeos/
+ 1335  ls
+ 1336  cd P
+ 1337  cd ProgramacionenC/
+ 1338  ls
+ 1339  gcc -o seleccion.c 
+ 1340  gcc -o eje seleccion.c 
+ 1341  ./eje 
+ 1342  gcc -o eje seleccion.c 
+ 1343  ./eje 
+ 1344  ls
+ 1345  gcc -o eje ifelse.c 
+ 1346  ./eje 
+ 1347  ls
+ 1348  gcc -o eje if.c 
+ 1349  ./eje
+ 1350  gcc -o eje if.c 
+ 1351  ./eje 
+ 1352  gcc -o eje if.c 
+ 1353  ./eje 
+ 1354  gcc -o eje if.c 
+ 1355  ./eje 
+ 1356  gcc -o eje ifelse.c
+ 1357  ./eje
+ 1358  gcc -o eje ifelse.c
+ 1359  ./eje
+ 1360  gcc -o eje ifelse.c
+ 1361  ./eje
+ 1362  gcc -o eje ifelse.c
+ 1363  ./eje
+ 1364  pkill kate
+ 1365  gcc -o eje ifelseif.c
+ 1366  ./eje
+ 1367  gcc -o eje ifelseif.c
+ 1368  ./eje
+ 1369  gcc -o eje ifelseif.c
+ 1370  ./eje
+ 1371  gcc -o eje seleccion.cc
+ 1372  gcc -o eje seleccion.c
+ 1373  ./eje
+ 1374  gcc -o eje seleccion.c
+ 1375  ./eje
+ 1376  gcc -o eje seleccion.c
+ 1377  ./eje
+ 1378  gcc -o eje seleccion.c
+ 1379  ./eje
+ 1380  ls
+ 1381  cd Vídeos/
+ 1382  ls
+ 1383  cd ProgramacionenC/
+ 1384  ls
+ 1385  cd EstructuraRepeticion/
+ 1386  ls
+ 1387  gcc -o eje while.c
+ 1388  ./eje
+ 1389  gcc -o eje do_while.c 
+ 1390  ./eje 
+ 1391  gcc -o eje for.c 
+ 1392  ./eje 
+ 1393  cd /home/misa/Vídeos/ProgramacionenC
+ 1394  gcc -m32 -o eje32 021tamanode.c
+ 1395  ls
+ 1396  ./eje32 
+ 1397  file eje32 
+ 1398  ./eje32
+ 1399  cd /home/misa/Vídeos/ProgramacionenC
+ 1400  gcc -o eje 021tamanode.c
+ 1401  gcc -o eje64 021tamanode.c
+ 1402  ls
+ 1403  ./eje64
+ 1404  file eje64
+ 1405  ./eje64
+ 1406  gcc -o eje 021tamanode.c 
+ 1407  ./eje 
+ 1408  ls
+ 1409  gcc -o eje 021tamanode.c 
+ 1410  ls
+ 1411  ./eje
+ 1412  gcc -o eje 021tamanode.c 
+ 1413  ./eje
+ 1414  gcc -o eje 021tamanode.c 
+ 1415  ./eje
+ 1416  uname -r
+ 1417  cpuid
+ 1418  lscpu
+ 1419  ./eje
+ 1420  gcc -m32 -o eje 021tamanode.c 
+ 1421  gcc -m32 -c  021tamanode.c 
+ 1422  apt-get install gcc-multilib
+ 1423  sudo apt-get install gcc-multilib
+ 1424  gcc -m32 -c  021tamanode.c 
+ 1425  gcc -m32 -o eje 021tamanode.c 
+ 1426  ./eje
+ 1427  gcc  -o eje 021tamanode.c 
+ 1428  ./eje
+ 1429  pwd
+ 1430  man 3 sizeof
+ 1431  man sizeof
+ 1432  lscpu
+ 1433  ls
+ 1434  cd Vídeos/
+ 1435  ls
+ 1436  cd ProgramacionenC/
+ 1437  ls
+ 1438  cd SecuenciasYAbrevia/
+ 1439  ls
+ 1440  gcc -o eje secuabrebia.c 
+ 1441  ./eje 
+ 1442  gcc -o eje secuabrebia.c 
+ 1443  ./eje 
+ 1444  gcc -o eje secuabrebia.c 
+ 1445  ./eje 
+ 1446  gcc -o eje secuabrebia.c 
+ 1447  ./eje 
+ 1448  ls
+ 1449  gcc -o eje punteros.c
+ 1450  ./eje
+ 1451  gcc -o eje punteros.c
+ 1452  ./eje
+ 1453  gcc -o eje punteros.c
+ 1454  ./eje
+ 1455  gcc -o eje punteros.c
+ 1456  ./eje
+ 1457  gcc -o eje punteros2.c
+ 1458  ./eje
+ 1459  gcc -o eje punteros2.c
+ 1460  ./eje
+ 1461  gcc -o eje punteros3.c
+ 1462  ./eje
+ 1463  gcc -o eje punteros3.c
+ 1464  ./eje
+ 1465  gcc -o eje punteros3.c
+ 1466  ./eje
+ 1467  gcc -o eje punterosB.c
+ 1468  ./eje
+ 1469  gcc -o eje punterosB.c
+ 1470  ./eje
+ 1471  gcc -o eje punterosB.c
+ 1472  ./eje
+ 1473  gcc -o eje punterosB.c
+ 1474  ./eje
+ 1475  gcc -o eje punterosB.c
+ 1476  ./eje
+ 1477  gcc -o eje punterosB.c
+ 1478  ./eje
+ 1479  gcc -o eje punterosB.c
+ 1480  ./eje
+ 1481  gcc -o eje punterosB.c
+ 1482  ./eje
+ 1483  gcc -o eje punterosB.c
+ 1484  ./eje
+ 1485  gcc -o eje punterosB.c
+ 1486  ./eje
+ 1487  gcc -o eje punterosB.c
+ 1488  ./eje
+ 1489  gcc -o eje punterosB.c
+ 1490  ./eje
+ 1491  gcc -o eje punterosB.c
+ 1492  ./eje
+ 1493  pwd
+ 1494  gcc -o eje punterosB.c
+ 1495  pwd
+ 1496  ./eje
+ 1497  gcc -o eje punterosC.c
+ 1498  ./eje
+ 1499  gcc -o eje punterosC.c
+ 1500  ./eje
+ 1501  gcc -m32  -o eje punterosC.c
+ 1502  ./eje
+ 1503  gcc   -o eje punterosC.c
+ 1504  ./eje
+ 1505  gcc   -o eje punterosC.c
+ 1506  ./eje
+ 1507  gcc   -o eje punterosD.c
+ 1508  ./eje
+ 1509  gcc   -o eje punterosD.c
+ 1510  ./eje
+ 1511  cd /home/misa/Vídeos/ProgramacionenC/Puntero
+ 1512  ls
+ 1513  ./eje 
+ 1514  ld
+ 1515  cd Vi
+ 1516  cd Vídeos/
+ 1517  ls
+ 1518  cd ProgramacionenC/
+ 1519  ls
+ 1520  cd Arrays/
+ 1521  ls
+ 1522  gcc -o eje vector.c c
+ 1523  gcc -o eje vector.c 
+ 1524  gcc -o eje vector.c c
+ 1525  ls
+ 1526  gcc -o eje vector.c
+ 1527  gcc -o vector.c 
+ 1528  gcc -o eje vector.c 
+ 1529  gcc -o vector.c 
+ 1530  gcc -o eje vector.c 
+ 1531  ls
+ 1532  ./eje
+ 1533  gcc -o eje vector.c 
+ 1534  ./eje
+ 1535  gcc -o eje vector.c 
+ 1536  ./eje
+ 1537  gcc -o eje vector.c 
+ 1538  ./eje
+ 1539  gcc -o eje vector.c 
+ 1540  ./eje
+ 1541  lspc
+ 1542  lshw 
+ 1543  sudo lshw 
+ 1544  sudo lshw | grep hd
+ 1545  sudo lshw | grep hard
+ 1546  sudo lshw | grep drive
+ 1547  sudo lshw 
+ 1548  ls
+ 1549  gcc -o eje vector.c 
+ 1550  ./eje
+ 1551  gcc -o eje vector.c 
+ 1552  ./eje
+ 1553  gcc -o eje vector2.c 
+ 1554  ./eje
+ 1555  gcc -o eje vector3punteros.c 
+ 1556  ./eje
+ 1557  gcc -o eje vector3punteros.c 
+ 1558  ./eje
+ 1559  gcc -o eje vector3punteros.c 
+ 1560  ./eje
+ 1561  cc -o eje vector3punteros.c 
+ 1562  ./eje
+ 1563  cc -o eje vector3punteros.c 
+ 1564  ./eje
+ 1565  cc -o eje vector4.c 
+ 1566  cc -o eje vector4ubicacion.c 
+ 1567  ./eje
+ 1568  ls
+ 1569  cd Vídeos/
+ 1570  ls
+ 1571  cd ProgramacionenC/
+ 1572  ls
+ 1573  cd CadenaDeCharvsString/
+ 1574  ls
+ 1575  gcc -o eje cadenacharstring.c
+ 1576  ./eje
+ 1577  gcc -o eje cadenacharstring.c
+ 1578  ./eje
+ 1579  gcc -o eje cadenacharstring.c
+ 1580  ./eje
+ 1581  man fprintf
+ 1582  ls
+ 1583  gcc -o eje salidaAOctave.c 
+ 1584  man fopen
+ 1585  gcc -o eje salidaAOctave.c 
+ 1586  ./eje
+ 1587  ls
+ 1588  cat salidaAOctave.txt 
+ 1589  touch salidaAOctave.c
+ 1590  kate salidaAOctave.c 
+ 1591  ls
+ 1592  cd Documentos/
+ 1593  ls
+ 1594  gcc -o eje nobinarie.c 
+ 1595  ./eje 
+ 1596  gcc -o eje nobinarie.c 
+ 1597  ./eje 
+ 1598  gcc -o eje nobinarie.c 
+ 1599  ./eje 
+ 1600  gcc -o eje nobinarie.c 
+ 1601  ./eje 
+ 1602  gcc -o eje nobinarie.c 
+ 1603  ./eje 
+ 1604  gcc -o eje nobinarie.c 
+ 1605  ./eje 
+ 1606  gcc -o eje nobinarie.c 
+ 1607  ./eje 
+ 1608  gcc -o eje nobinarie.c 
+ 1609  ./eje 
+ 1610  gcc -o eje nobinarie.c 
+ 1611  ./eje 
+ 1612  gcc -o eje nobinarie.c 
+ 1613  ./eje 
+ 1614  gcc -o eje nobinarie.c 
+ 1615  ./eje 
+ 1616  gcc -o eje nobinarie.c 
+ 1617  ./eje 
+ 1618  gcc -o eje nobinarie.c 
+ 1619  ./eje 
+ 1620  #ls
+ 1621  ls
+ 1622  de Vide
+ 1623  cd Vídeos/
+ 1624  s
+ 1625  ls
+ 1626  cd ProgramacionenC/
+ 1627  ls
+ 1628  cd funciones/
+ 1629  ls
+ 1630  gcc -o eje funciones1.c 
+ 1631  ./eje
+ 1632  gcc -o eje funciones2.c 
+ 1633  ./eje
+ 1634  gcc -o eje funciones2.c 
+ 1635  ./eje
+ 1636  gcc -o eje funciones2.c 
+ 1637  ./eje
+ 1638  gcc -o eje funciones2.c 
+ 1639  ./eje
+ 1640  gcc -o eje funciones2.c 
+ 1641  gcc -o eje funciones3.c 
+ 1642  gcc -o eje funciones2.c 
+ 1643  ./eje
+ 1644  gcc -o eje funciones3.c 
+ 1645  ./eje
+ 1646  gcc -o eje funciones3.c 
+ 1647  ./eje
+ 1648  gcc -o eje funciones3.c 
+ 1649  ./eje
+ 1650  gcc -o eje funciones3.c 
+ 1651  ./eje
+ 1652  gcc -o eje funciones4Scope.c 
+ 1653  ./eje
+ 1654  gcc -o eje funciones4Scope.c 
+ 1655  ./eje
+ 1656  gcc -o eje funciones4Scope.c 
+ 1657  ./eje
+ 1658  gcc -o eje funciones5Scopepunteros.c 
+ 1659  ./eje
+ 1660  pkill cisco
+ 1661  pkill cisco*
+ 1662  ls /dev
+ 1663  fsck ?
+ 1664  fsck -v 
+ 1665  sudo e4defrag /dev/sda*
+ 1666  archivos
+ 1667  nautilux
+ 1668  nautilus
+ 1669  sudo nautilus
+ 1670  ps -fea
+ 1671  top
+ 1672  pkill vlc
+ 1673  top
+ 1674  pkill vlc
+ 1675  top
+ 1676  pkill vlc
+ 1677  top
+ 1678  kill - 3734
+ 1679  kill -9 3734
+ 1680  top
+ 1681  exit
+ 1682  #ls
+ 1683  pwd
+ 1684  cd Vídeos/
+ 1685  cd Arquitectura/
+ 1686  ls
+ 1687  gcc -c bloqmayus.c 
+ 1688  gcc -c -O0 bloqmayus.c 
+ 1689  gcc -S -O0 bloqmayus.c 
+ 1690  gcc -S -O0 bloqmayus2.c 
+ 1691  man gcc
+ 1692  to
+ 1693  top
+ 1694  mkdir
+ 1695  mkdir carpeta
+ 1696  ls
+ 1697  gcc -o eje Argumentos.c 
+ 1698  ./eje
+ 1699  ./eje fdsa
+ 1700  cd ..
+ 1701  ls
+ 1702  cd ArgumentosMain/
+ 1703  ls
+ 1704  gcc -o eje Argumentos.c 
+ 1705  ./eje
+ 1706  mkdir 
+ 1707  mkdir carpeta
+ 1708  ls
+ 1709  gcc -o eje Argumentos.c 
+ 1710  ./eje
+ 1711  ./eje primer
+ 1712  ./eje primer segundo
+ 1713  gcc -o eje Argumentos.c 
+ 1714  ./eje 
+ 1715  gcc -o eje Argumentos.c }
+ 1716  gcc -o eje Argumentos.c 
+ 1717  ./eje 
+ 1718  gcc -o eje Argumentos.c 
+ 1719  ./eje 
+ 1720  ./eje misael
+ 1721  gcc -o eje Argumentos.c 
+ 1722  ./eje misael
+ 1723  ./eje misael pedro pablo juan
+ 1724  ls
+ 1725  gcc -o eje 05memdinamalloc.c 
+ 1726  ./eje
+ 1727  ls
+ 1728  gcc -o ej  05memdinamalloc.c 
+ 1729  ./ej
+ 1730  ls
+ 1731  cd Vídeos/
+ 1732  lks
+ 1733  ls
+ 1734  cd Arquitectura/
+ 1735  ls
+ 1736  cd codigosC/
+ 1737  ls
+ 1738  gcc -S sumarestamultidiv.c 
+ 1739  gcc -S sumarestamultidiv.c 
+ 1740  gcc -S -fverbose-asm  sumarestamultidiv.c 
+ 1741  gcc -S -fverbose-asm -Bstatic  sumarestamultidiv.c 
+ 1742  gcc -S -fverbose-asm -Bstatic  impresion.c 
+ 1743  gcc -S -fverbose-asm -Bstatic  funcion.c 
+ 1744  ls
+ 1745  gcc -c sumarestamultidiv.c
+ 1746  gcc -E sumarestamultidiv.c
+ 1747  gcc -S -O0 -masm=intel  -fverbose-asm sumarestamultidiv.c
+ 1748  gcc -S -O0 -masm=intel  -fverbose-asm funcion.c
+ 1749  gcc -S -O0 -masm=intel  -fverbose-asm impresion.c
+ 1750  gcc -S -O0 -masm=intel -Bstatic  -fverbose-asm funcion.c
+ 1751  gcc -S -O0 -masm=intel -Bstatic  -fverbose-asm impresion.
+ 1752  gcc -S -O0 -masm=intel -Bstatic  -fverbose-asm impresion.c
+ 1753  gcc -S -O0 -masm=intel -Bstatic  -fverbose-asm saltoscondicionales.c 
+ 1754  gcc -S -O0 -masm=intel -Bstatic  -fverbose-asm impresion.c
+ 1755  gcc -S -O0 -masm=intel -Bstatic  -fverbose-asm saltoscondicionales.c 
+ 1756  gcc -S -O0 -masm=intel -Bstatic  -fverbose-asm repeEstruct.c
+ 1757  gcc -S -O0 -masm=intel -Bstatic  -fverbose-asm saltoscondicionales.c 
+ 1758  ls
+ 1759  cd Vídeos/
+ 1760  ls
+ 1761  cd P
+ 1762  cd ProgramacionenC/
+ 1763  ls
+ 1764  cd ..
+ 1765  ls
+ 1766  cd Arquitectura/
+ 1767  ls
+ 1768  ls
+ 1769  gcc -E sumarestamultidiv.c
+ 1770  gcc -O0 sumarestamultidiv.c
+ 1771  gcc -O0 -fverbose-asm sumarestamultidiv.c
+ 1772  gcc -S -O0 -fverbose-asm sumarestamultidiv.c
+ 1773  -masm=intel
+ 1774  gcc -S -O0 -masm=intel  -fverbose-asm sumarestamultidiv.c
+ 1775  pkill java
+ 1776  ps -fea
+ 1777  kill -9 19671
+ 1778  man strcmp
+ 1779  man strcpy
+ 1780  pwd
+ 1781  cd Documentos/
+ 1782  cd Ingreso/
+ 1783  cd ..
+ 1784  ls
+ 1785  cd info1/
+ 1786  ls
+ 1787  cd Strings/
+ 1788  ls
+ 1789  gcc -o eje string1.c
+ 1790  ./eje
+ 1791  gcc -o eje string1.c
+ 1792  ./eje
+ 1793  gcc -o eje string1.c
+ 1794  ./eje
+ 1795  gcc -o eje string1.c
+ 1796  ./eje
+ 1797  gcc -o eje string2.c
+ 1798  ./eje
+ 1799  ps -fea | grep vlc
+ 1800  pkill vlc
+ 1801  exit
+ 1802  pkill vlc
+ 1803  lshw 
+ 1804  sudo lshw 
+ 1805  pkill vlc
+ 1806  exit
+ 1807  ps -fea
+ 1808  top
+ 1809  shutdown 0
+ 1810  ls
+ 1811  file *.mp4
+ 1812  sudo pkill vlc
+ 1813  ps -fea
+ 1814  top
+ 1815  sudo pkill vlc
+ 1816  shutdown 0
+ 1817  gcc -o eje eje1B2.c 
+ 1818  gcc -o eje eje1B2.c  -Wall
+ 1819  ./eje
+ 1820  sudo su
+ 1821  locate RFID
+ 1822  locate arduino
+ 1823  locate arduino 
+ 1824  locate arduino-mhall119
+ 1825  cd /var
+ 1826  ls
+ 1827  cd snap/
+ 1828  ls
+ 1829  cd arduino-mhall119/
+ 1830  ls
+ 1831  ls *
+ 1832  ls *.*
+ 1833  ls *{
+ 1834  ls
+ 1835  cd 3
+ 1836  ls
+ 1837  cd ..
+ 1838  cd 5
+ 1839  ls
+ 1840  cd ..
+ 1841  ls
+ 1842  cd common/
+ 1843  ls
+ 1844  exit
+ 1845  nc
+ 1846  man nc
+ 1847  ls
+ 1848  man cn
+ 1849  man nc
+ 1850  nc -N host.example.com 1234 < filename.in
+ 1851  ls
+ 1852  nc -N 192.168.0.107 1234 < C_8_To-Disk-2.iso 
+ 1853  nc  192.168.0.107 1234 < C_8_To-Disk-2.iso 
+ 1854  netstat -putan
+ 1855  man nc
+ 1856  sudo wireshark
+ 1857  sha256sum 
+ 1858  shar
+ 1859  man shar
+ 1860  ip addr
+ 1861  sudo wireshark
+ 1862  man shutdown
+ 1863  shutdown 10
+ 1864  kate docu
+ 1865  ls
+ 1866  cd DO
+ 1867  cd Documentos/
+ 1868  ls
+ 1869  cat nobinarie.c 
+ 1870  sha1sum -t nobinarie.c > sha1sumnobinarie.txt
+ 1871  cat sha1sumnobinarie.txt 
+ 1872  sha1sum -c sha1sumnobinarie.txt 
+ 1873  cat sha1sumnobinarie.txt 
+ 1874  nano sha1sumnobinarie.txt 
+ 1875  sha1sum -c sha1sumnobinarie.txt 
+ 1876  sudo arduino-mhall119.
+ 1877  sudo arduino
+ 1878  sudo arduino-mhall119.arduino 
+ 1879  ls /dev/
+ 1880  sudo usermod -a -G dialout $USER
+ 1881  ls
+ 1882  ls /dev/
+ 1883  cat ttyUSB0
+ 1884  ls /dev/
+ 1885  ls -l
+ 1886  ls -l /dev/
+ 1887  sudo su
+ 1888  groups
+ 1889  man groupadd
+ 1890  usermod
+ 1891  sudo usermod -a  dialout $USER
+ 1892  sudo usermod -a -G  dialout $USER
+ 1893  groups
+ 1894  reboot
+ 1895  sudo usermod -a -G tty yourUserName
+ 1896  sudo usermod -a -G tty misa
+ 1897  groups
+ 1898  id
+ 1899  sudo usermod -a -G tty misa
+ 1900  id
+ 1901  cat /etc/passwd
+ 1902  sudo su
+ 1903  arduino-mhall119.arduino 
+ 1904  sudo arduino-mhall119.arduino 
+ 1905  ls
+ 1906  cd /dev/
+ 1907  ls
+ 1908  cat "la puta que te pario" > ttyUSB0
+ 1909  ls -l
+ 1910  chmod rw+o ttyUSB0 
+ 1911  chmod o+rw ttyUSB0 
+ 1912  sudo chmod o+rw ttyUSB0 
+ 1913  ll
+ 1914  cd Documentos/Seguridad/
+ 1915  gcc -o eje *.c
+ 1916  -/eje
+ 1917  ./eje
+ 1918  gcc -o eje *.c
+ 1919  ./eje
+ 1920  gcc -o eje *.c
+ 1921  ./eje
+ 1922  gcc -o eje *.c
+ 1923  ./eje
+ 1924  gcc -o eje *.c
+ 1925  ./eje
+ 1926  gcc -o eje *.c
+ 1927  ./eje
+ 1928  gcc -o eje *.c
+ 1929  ./eje
+ 1930  gcc -o eje *.c
+ 1931  ./eje
+ 1932  gcc -o eje *.c
+ 1933  ./eje
+ 1934  gcc -o eje *.c
+ 1935  ./eje
+ 1936  gcc -o eje *.c
+ 1937  ./eje
+ 1938  gcc -o eje *.c
+ 1939  ./eje
+ 1940  gcc -o eje *.c
+ 1941  ./eje
+ 1942  gcc -o eje *.c
+ 1943  ./eje
+ 1944  gcc -o eje *.c
+ 1945  ./eje
+ 1946  gcc -o eje *.c
+ 1947  ./eje
+ 1948  gcc -o eje *.c
+ 1949  ./eje
+ 1950  man strlen
+ 1951  ./eje
+ 1952  gcc -o eje *.c
+ 1953  ./eje
+ 1954  gcc -o eje *.c
+ 1955  ./eje
+ 1956  gcc -o eje *.c
+ 1957  ./eje
+ 1958  gcc -o eje *.c
+ 1959  ./eje
+ 1960  gcc -o eje *.c
+ 1961  ./eje
+ 1962  gcc -o eje *.c
+ 1963  ./eje
+ 1964  gcc -o eje *.c
+ 1965  ./eje
+ 1966  gcc -o eje *.c
+ 1967  ./eje
+ 1968  gcc -o eje *.c
+ 1969  ./eje
+ 1970  gcc -o eje *.c
+ 1971  ./eje
+ 1972  gcc -o eje *.c
+ 1973  ./eje
+ 1974  gcc -o eje *.c
+ 1975  ./eje
+ 1976  gcc -o eje *.c
+ 1977  ./eje
+ 1978  gcc -o eje *.c
+ 1979  ./eje
+ 1980  gcc -o eje *.c
+ 1981  ./eje
+ 1982  gcc -o eje *.c
+ 1983  ./eje
+ 1984  kate
+ 1985  pgrep 
+ 1986  pgrep  ?
+ 1987  ls
+ 1988  cd Imágenes/
+ 1989  ls
+ 1990  cat feyman.jpg 
+ 1991  ls
+ 1992  gcc -o eje holamundo.c 
+ 1993  ./eje
+ 1994  nano eje
+ 1995  ./eje
+ 1996  file je
+ 1997  file eje
+ 1998  ./eje
+ 1999  kate &
+ 2000  pgp
+ 2001  man pgmtofs
+ 2002  gpg --gen-key
+ 2003  gpg --full-generate-key
+ 2004  gpg
+ 2005  gpg 
+ 2006  man gpg
+ 2007  gpg --help
+ 2008  ls
+ 2009  cd Documentos/
+ 2010  ls
+ 2011  cd Seguridad/
+ 2012  ls
+ 2013  nano mensajeplano.txt
+ 2014  cat mensajeplano.txt 
+ 2015  gpg -c mensajeplano.txt 
+ 2016  ls
+ 2017  cat mensajeplano.txt*
+ 2018  file mensajeplano.txt
+ 2019  file mensajeplano.txt.gpg 
+ 2020  gpg -d mensajeplano.txt.gpg 
+ 2021  ls
+ 2022  gpg -k
+ 2023  gpg -output misapublica.gpg 
+ 2024  gpg -output misapublica.gpg 48909D9C1B588DFDBB14465912E064D38A28D7E3
+ 2025  gpg -output misapublica.gpg --export
+ 2026  gpg -output misapublica.gpg --export 48909D9C1B588DFDBB14465912E064D38A28D7E3
+ 2027  gpg
+ 2028  gpg --gen-key
+ 2029  gpg -output misapublica.gpg --export 07085041FBC422B9
+ 2030  gpg --ful-generate-key
+ 2031  gpg --full-generate-key
+ 2032  gpg -k
+ 2033  gpg -output misapublica.gpg --export 07085041FBC422B9
+ 2034  man gpg
+ 2035  gpg -k
+ 2036  gpg -K
+ 2037  man gpg
+ 2038  gpg --export-secret-keys
+ 2039  gpg -k
+ 2040  gpg --export
+ 2041  gpg --export --output clavespub.gpg
+ 2042  ls
+ 2043  file clavespub.gpg 
+ 2044  ls
+ 2045  mkdir pruebasPGP
+ 2046  cd pruebasPGP/
+ 2047  ls
+ 2048  cd ..
+ 2049  ls
+ 2050  mv mensajeplano.txt pruebasPGP/
+ 2051  cd pruebasPGP/
+ 2052  ls
+ 2053  gpg --list-key
+ 2054  gpg --list-keys
+ 2055  gpg --delete
+ 2056  gpg --delete-keys 
+ 2057  gpg -k
+ 2058  gpg --delete-secret-and-public-keys 
+ 2059  gpg -k
+ 2060  gpg --delete-secret-and-public-keys 
+ 2061  gpg --delete-secret-
+ 2062  gpg --delete-secret-keys 
+ 2063  gpg -k
+ 2064  gpg --gpg --export -a "Nombre de Usuario" > public.key
+ 2065  gpg --export -a "Nombre de Usuario" > public.key
+ 2066  gpg --export -a "misa" > public.key
+ 2067  ls
+ 2068  file public.key 
+ 2069  gpg -k
+ 2070  gpg --export -a "misael"
+ 2071  gpg --export -a "misael" > publica.pgp
+ 2072  ls
+ 2073  gile publica.pgp 
+ 2074  file publica.pgp 
+ 2075  file public.key 
+ 2076  cat publica.pgp 
+ 2077  cat public.key 
+ 2078  ls
+ 2079  gpg --export-secret-key  -a "misael" > privada.key
+ 2080  ls
+ 2081  file *
+ 2082  cat privada.key 
+ 2083  file *
+ 2084  cat privada.key 
+ 2085  ls
+ 2086  gpg -k
+ 2087  gpg --delete-key misa
+ 2088  gpg --delete-scret-key  misa
+ 2089  gpg --delete-secret-key  misa
+ 2090  ls
+ 2091  gpg -k
+ 2092  gpg --delete-secret-and-public-keys misael
+ 2093  gpg -k
+ 2094  gpg --delete-secret-and-public-keys misael
+ 2095  gpg -k
+ 2096  gpg --delete-secret-and-public-keys misael
+ 2097  gpg -k
+ 2098  gpg --delete-secret-and-public-keys misael
+ 2099  gpg -k
+ 2100  gpg --delete-secret-and-public-keys misael
+ 2101  gpg -k
+ 2102  gpg --list-keys
+ 2103  gpg -k
+ 2104  gpg -K
+ 2105  gpg --gen-prime 
+ 2106  gpg --gen-key 
+ 2107  gpg --full-gen-key 
+ 2108  gpg -k
+ 2109  gpg -K
+ 2110  gpg --export -a "misaelcudekTEST1" > public.key
+ 2111  ls
+ 2112  rm privada.key publica.pgp 
+ 2113  ls
+ 2114  file public.key 
+ 2115  gpg --export-secret-keys -a misaelcudekTEST1 > private.key
+ 2116  ls
+ 2117  file *
+ 2118  cat private.key 
+ 2119  l
+ 2120  ls
+ 2121  gpg --list-keys
+ 2122  gpg --list-sig
+ 2123  gpg --list-trustdb 
+ 2124  gpg --fingerprint > fingerprint
+ 2125  file *
+ 2126  cat fingerprint 
+ 2127  gpg -k
+ 2128  cat fingerprint 
+ 2129  ls
+ 2130  mv public.key publicaTEST1.key
+ 2131  ls
+ 2132  gpg --import publicatest2.key 
+ 2133  gpg -k
+ 2134  ls
+ 2135  cat mensajeplano.txt 
+ 2136  gpg -k
+ 2137  gpg -e -u "misaelcudekTEST1" -r "misaelcudekTEST2" mensajeplano.txt 
+ 2138  ls
+ 2139  file *
+ 2140  cat mensajeplano.txt.gpg 
+ 2141  ls
+ 2142  history > comandosgpg
+ 2143  kate comandosgpg 
+ 2144  gpg -k
+ 2145  ping -b 192.168.0.255
+ 2146  ls
+ 2147  gpg --output mensajeplano.txt --sign docu
+ 2148  gpg --output mensajefirmado.txt --sign mensajeplano.txt
+ 2149  ls
+ 2150  file *
+ 2151  cat mensajefirmado.txt 
+ 2152  gpg --verify mensajefirmado.txt 
+ 2153  gpg --verbose --verify mensajefirmado.txt 
+ 2154  gpg --verbose --output mensajefirmado.txt --decrypt mensajedesen
+ 2155  gpg --verbose --output mensajedesen --decrypt mensajefirmado.txt 
+ 2156  file *
+ 2157  cat mensajedesen 
+ 2158  history > firmagpg 

@@ -1,0 +1,8 @@
+
+ gpg --gen-key 
+ gpg --export -a "UsuarioNombre1" > public.key
+ gpg --list-keys
+ gpg --import publicatest2.key 
+ gpg -k
+ gpg -e -u "UsuarioNombre1" -r "UsuarioNombre2" mensajeplano.txt 
+
